@@ -1,0 +1,3 @@
+heuristic,.false.,.true.,.003,0.15,0.001,2,3
+
+errormethod,verbose,quiet,minarea,maxrelerr,toler,maxviolations,ern
